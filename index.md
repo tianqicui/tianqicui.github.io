@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/tianqicui/tianqicui.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering (ChBE)](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University (JHU)](https://www.jhu.edu/). I am honored to have the Bloomberg Distinguished Professor, Dr. Yannis Kevrekidis, as my research advisor. Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block

@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering (ChBE)](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University (JHU)](https://www.jhu.edu/). I am honored to have the Bloomberg Distinguished Professor, Dr. Yannis Kevrekidis, as my research advisor. My research interests include the connections among neural networks inspired by numerical methods, differential equations and dynamical systems, as well as the applications of these techniques in the fields of science and engineering.
+I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering (ChBE)](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University (JHU)](https://www.jhu.edu/). I am honored to have the [Bloomberg Distinguished Professor](https://research.jhu.edu/bloomberg-distinguished-professorships/), Dr. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/), as my research advisor. My research interests include the connections among neural networks inspired by numerical methods, differential equations and dynamical systems, as well as the applications of these techniques in the fields of science and engineering.
 
 ## Education
 
@@ -11,6 +11,11 @@ I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomol
 - MSE in Applied Mathematics and Statisitics, Johns Hopkins University, 2018 - 2020
 - BEcon in Economics, Tsinghua University, 2014 - 2017
 - BEng in Polymer Materials and Engineering, Tsinghua University, 2013 - 2017
+
+## Contact
+- Office: 214 Maryland Hall, 3400 North Charles Street, Baltimore, MD 21218
+
+- Email: tcui3 AT jhu DOT edu
 
 <!-- 1. Numbered
 2. List

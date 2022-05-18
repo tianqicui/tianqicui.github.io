@@ -1,18 +1,17 @@
-## Welcome to Tianqi's Personal Website
+# Welcome to Tianqi Cui's Personal Page !
 
-You can use the [editor on GitHub](https://github.com/tianqicui/tianqicui.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering (ChBE)](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University (JHU)](https://www.jhu.edu/). I am honored to have the Bloomberg Distinguished Professor, Dr. Yannis Kevrekidis, as my research advisor. My research interests include the connections among neural networks inspired by numerical methods, differential equations and dynamical systems, as well as the applications of these techniques in the fields of science and engineering.
 
-### About Me
+<!-- 
 
-I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering (ChBE)](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University (JHU)](https://www.jhu.edu/). I am honored to have the Bloomberg Distinguished Professor, Dr. Yannis Kevrekidis, as my research advisor. Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block -->
 
-# Header 1
-## Header 2
+
 ### Header 3
 
 - Bulleted

@@ -1,4 +1,4 @@
-# Welcome to Tianqi Cui's Personal Page !
+# Welcome to Tianqi Cui's Personal Page!
 
 ## About Me
 
@@ -12,10 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block -->
 
 
-### Header 3
+## Education
 
-- Bulleted
-- List
+- PhD in Chemical and Biomolecular Engineering, Johns Hopkins University, 2017 - present
+- MSE in Computer Science, Johns Hopkins University, 2020 - 2022
+- MSE in Applied Mathematics and Statisitcs, Johns Hopkins University, 2018 - 2020
+- BEcon in Economics, Tsinghua University, 2014 - 2017
+- BEng in Polymer Materials and Engineering, Tsinghua University, 2013 - 2017
 
 1. Numbered
 2. List

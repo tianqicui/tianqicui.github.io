@@ -15,7 +15,7 @@ I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomol
 ## Experiences
 
 - Teaching Assistant AT Johns Hopkins University: Dynamic Modeling and Control (Spring 2019), Transport Phenomena II (Fall 2018)
-- Research Intern AT [Information Science & Technology Institute](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/index.php), [Los Alamos National Laboratory](https://www.lanl.gov), Jun 2020 – Aug 2020
+- Research Intern (funded by [Applied Machine Learning Fellowship](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/applied-machine-learning/index.php)) AT [Information Science & Technology Institute](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/index.php), [Los Alamos National Laboratory](https://www.lanl.gov), Jun 2020 – Aug 2020
 
 ## Contact
 - Office: 214 Maryland Hall, 3400 North Charles Street, Baltimore, MD 21218

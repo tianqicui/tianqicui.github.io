@@ -1,3 +1,4 @@
+![Book logo](TianqiCui.jpg)
 # Welcome to Tianqi's Personal Page!
 
 ## About Me
@@ -32,7 +33,6 @@ I am looking for the position of Machine Learning Research Scientist or Quantita
 **Bold** and _Italic_ and `Code` text
 
 and !
-[Image](TianqiCui.jpg)
 ``` -->
 
 

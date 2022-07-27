@@ -1,4 +1,4 @@
-# Welcome to Tianqi Cui's Personal Page!
+# Welcome to Tianqi's Personal Page!
 
 ## About Me
 

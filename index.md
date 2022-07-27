@@ -31,5 +31,7 @@ I am looking for the position of Machine Learning Research Scientist or Quantita
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+and !
 ``` -->
+
+[Image](TianqiCui.jpg)

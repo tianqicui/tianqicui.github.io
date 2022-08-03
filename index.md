@@ -1,4 +1,8 @@
-![Book logo|width=200px](TianqiCui.jpg)
+<!-- ![Book logo|width=200px](TianqiCui.jpg) -->
+
+<img src="TianqiCui.jpg" width="300" height="450">
+
+
 # Welcome to Tianqi's Personal Page!
 
 ## About Me

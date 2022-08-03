@@ -1,4 +1,4 @@
-![Book logo](TianqiCui.jpg | width=100)
+![Book logo|width=200px](TianqiCui.jpg)
 # Welcome to Tianqi's Personal Page!
 
 ## About Me

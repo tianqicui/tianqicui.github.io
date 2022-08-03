@@ -15,11 +15,11 @@ I am looking for the position of Machine Learning Research Scientist or Quantita
 
 ## Education
 
-- PhD in Chemical and Biomolecular Engineering, Johns Hopkins University, 2017 - present
-- MSE in Computer Science, Johns Hopkins University, 2020 - 2022
-- MSE in Applied Mathematics and Statisitics, Johns Hopkins University, 2018 - 2020
-- BEcon in Economics, Tsinghua University, 2014 - 2017
-- BEng in Polymer Materials and Engineering, Tsinghua University, 2013 - 2017
+- PhD in Chemical and Biomolecular Engineering, Johns Hopkins University, USA, 2017 - present
+- MSE in Computer Science, Johns Hopkins University, USA, 2020 - 2022
+- MSE in Applied Mathematics and Statisitics, Johns Hopkins University, USA, 2018 - 2020
+- BEcon in Economics, Tsinghua University, China, 2014 - 2017
+- BEng in Polymer Materials and Engineering, Tsinghua University, China, 2013 - 2017
 
 ## Experiences
 

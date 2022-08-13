@@ -1,6 +1,6 @@
 <!-- ![Book logo|width=200px](TianqiCui.jpg) -->
 
-<img src="TianqiCui.jpg" width="300" height="450">
+<img src="TianqiCui.jpg" width="300" height="400">
 
 
 # Welcome to Tianqi's Personal Page!

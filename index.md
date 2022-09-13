@@ -1,17 +1,14 @@
-<!-- ![Book logo|width=200px](TianqiCui.jpg) -->
-
-<img src="TianqiCui.jpg" width="120" height="180">
-
-
 # Welcome to Tianqi's Personal Page!
 
 ## About Me
 
-I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering (ChBE)](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University (JHU)](https://www.jhu.edu/). I am honored to have the [Bloomberg Distinguished Professor](https://research.jhu.edu/bloomberg-distinguished-professorships/), Dr. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/), as my research advisor. 
+<img align="left" src="TianqiCui.jpg" width="130" height="180">
+
+I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University ](https://www.jhu.edu/). I am honored to have the [Bloomberg Distinguished Professor](https://research.jhu.edu/bloomberg-distinguished-professorships/), Dr. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/), as my research advisor. 
 
 My research interests include the connections among neural networks inspired by numerical methods, differential equations and dynamical systems, as well as the applications of these techniques in the fields of science and engineering.
 
-I am looking for the position of Machine Learning Research Scientist or Quantitative Researcher in industry, starting in Fall 2023!
+I am looking for the position of Machine Learning Research Scientist and Quantitative Researcher, starting in Fall 2023!
 
 ## Education
 

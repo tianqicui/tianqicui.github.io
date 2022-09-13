@@ -1,10 +1,10 @@
-<img align="left" src="TianqiCui.jpg" width="130" height="180">
+
 
 # Welcome to Tianqi's Personal Page!
 
 ## About Me
 
-
+<img align="left" src="TianqiCui.jpg" width="130" height="180" style="float:left; padding-right:10px">
 
 I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University ](https://www.jhu.edu/). I am honored to have the [Bloomberg Distinguished Professor](https://research.jhu.edu/bloomberg-distinguished-professorships/), Dr. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/), as my research advisor. 
 

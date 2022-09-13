@@ -10,7 +10,7 @@ I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomol
 
 My research interests include the connections among neural networks inspired by numerical methods, differential equations and dynamical systems, as well as the applications of these techniques in the fields of science and engineering.
 
-I am looking for the position of Machine Learning Research Scientist and Quantitative Researcher, starting in Fall 2023!
+I am looking for the position of Quantitative Researcher or Machine Learning Research Scientist in industry, starting in Fall 2023!
 
 ## Education
 

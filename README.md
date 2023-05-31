@@ -28,8 +28,11 @@ I am looking for the position of Quantitative Researcher or Machine Learning Res
 ## Selected Publications
 
 [1]	**T. Cui**, T. Bertalan, G. Pappas, M. Morari, Y. Kevrekidis and M. Fazlyab, "Certified Invertibility in Neural Networks via Mixed-Integer Programming". 5th Annual Learning for Dynamics & Control Conference (L4DC), [https://doi.org/10.48550/arXiv.2301.11783](https://doi.org/10.48550/arXiv.2301.11783)
+
 [2]	**T. Cui**, T. Bertalan, N. Ndahiro, P. Khare, M. Betenbaugh, C. Maranas and Y. Kevrekidis, "Data-driven and Physics Informed Modelling of Chinese Hamster Ovary (CHO) Cell Bioreactors". [https://doi.org/10.48550/arXiv.2305.03257](https://doi.org/10.48550/arXiv.2305.03257)
+
 [3]	S. Malani, T. Bertalan, **T. Cui**, J. L. Avalos, M. Betenbaugh and Y. Kevrekidis, "Some of the Variables, some of the Parameters, some of the Times, with some Physics Known: Identification with Partial Information". [https://doi.org/10.48550/arXiv.2304.14214](https://doi.org/10.48550/arXiv.2304.14214)
+
 [4]	F. Kemeth, T. Bertalan, N. Evangelou, **T. Cui**, S. Malani, and Y. Kevrekidis, "Initializing LSTM Internal States via Manifold Learning". Chaos: An Interdisciplinary Journal of Nonlinear Science. [https://doi.org/10.1063/5.0055371](https://doi.org/10.1063/5.0055371)
 
 ## Contact

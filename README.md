@@ -6,11 +6,11 @@
 
 <img align="left" src="ctq.jpg" width="180" height="270" style="float:left; padding-right:10px">
 
-I am Tianqi Cui (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University](https://www.jhu.edu/). I am honored to have the [Bloomberg Distinguished Professor](https://research.jhu.edu/bloomberg-distinguished-professorships/), Dr. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/), as my advisor. 
+I am **Tianqi Cui** (崔天祺), a PhD student in [Department of Chemical and Biomolecular Engineering](https://engineering.jhu.edu/chembe/) at the [Johns Hopkins University](https://www.jhu.edu/). I am honored to have the [Bloomberg Distinguished Professor](https://research.jhu.edu/bloomberg-distinguished-professorships/), Dr. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/), as my advisor. 
 
 My research interests include the connections among neural networks inspired by numerical methods, differential equations and dynamical systems, as well as the applications of these techniques in the fields of science and engineering, e.g. time series analysis.
 
-I am looking for the position of Quantitative Researcher or Machine Learning Research Scientist in industry, starting in Fall 2023!
+I am looking for the position of **Quantitative Researcher** or **Machine Learning Research Scientist** in industry, starting in **Fall 2023**!
 
 ## Education
 
